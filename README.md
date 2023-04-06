@@ -48,7 +48,7 @@ set LT_USERNAME="YOUR_USERNAME"
 set LT_ACCESS_KEY="YOUR ACCESS KEY"
 ```
 
-Step 5. To run your first test.
+Step 4. To run your first test.
 ```
 python test.py
 ```
