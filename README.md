@@ -1,4 +1,4 @@
- <h1>Smart UI Testing With Selenium Python </h1> 
+ <h1>Smart UI Testing With Selenium Python</h1> 
  
  <img height="400" src="https://user-images.githubusercontent.com/126776938/232534498-27618de9-6625-437e-904f-e94fc0bf38b9.png">
 
